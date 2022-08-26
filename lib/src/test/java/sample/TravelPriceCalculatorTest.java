@@ -8,7 +8,7 @@ import static org.mockito.Mockito.*;
 class TravelPriceCalculatorTest {
 
     @Test
-    void check_the_price_is_correct_for() {
+    void check_if_the_price_of_a_travel_calculated_by_travel_time_calculator_and_travel_rate_repository_is_as_expected() {
         Integer travelId = 5;
         Integer timeOfTravelInSeconds = 300;
         Double travelRateInEurosPerSecond = 1.0;
