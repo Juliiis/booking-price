@@ -1,4 +1,4 @@
-FEATURES testtttt:
+FEATURES:
 
 1. El precio de un viaje se calcula de la siguiente forma: tiempo_viaje x tarifa. Nos piden calcular el precio de los viajes. Por el momento, solo hay que contemplar tiempos de viaje con minutos enteros (por ejemplo: 60, 120, 180... segundos). Por ejemplo:
 
